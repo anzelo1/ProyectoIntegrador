@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="GruposDeInvestigacionApp.Articulos">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAQAAAAAAAAAAAAAABAAQ=</HashCode>
+      <FileName>Articulos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GruposDeInvestigacionApp.GrupoInvestigacion">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CBA6AggCgAgABAQCABEQQAAAAAEQAAAAARBAACARARI=</HashCode>
+      <FileName>GrupoInvestigacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GruposDeInvestigacionApp.MapaEquipos">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACACAAAAAACAAAAKAAABAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>MapaEquipos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GruposDeInvestigacionApp.Program">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GruposDeInvestigacionApp.ProgramaColciencias">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIIAAAAgAAAAABAAAAIAAAAAAAIAAAABAAAAAEAAA=</HashCode>
+      <FileName>ProgramaColciencias.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GruposDeInvestigacionApp.VentanaEquipos">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8QEAAAIAACAgEBAQAACAAEBKAAAIYAAAAEAAAQAAEAQ=</HashCode>
+      <FileName>VentanaEquipos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GruposDeInvestigacionApp.VentanaPrincipal">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAJAAEgACAAABAAAACAAAACAAAIAAAAAGAAAABAAAA=</HashCode>
+      <FileName>VentanaPrincipal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GruposDeInvestigacionApp.Properties.Resources">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GruposDeInvestigacionApp.Properties.Settings">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

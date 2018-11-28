@@ -1,0 +1,23 @@
+C:\Users\USUARIO\source\repos\GruposDeInvestigacionApp\GruposDeInvestigacionApp\bin\Debug\GruposDeInvestigacionApp.exe.config
+C:\Users\USUARIO\source\repos\GruposDeInvestigacionApp\GruposDeInvestigacionApp\bin\Debug\GruposDeInvestigacionApp.exe
+C:\Users\USUARIO\source\repos\GruposDeInvestigacionApp\GruposDeInvestigacionApp\bin\Debug\GruposDeInvestigacionApp.pdb
+C:\Users\USUARIO\source\repos\GruposDeInvestigacionApp\GruposDeInvestigacionApp\obj\Debug\GruposDeInvestigacionApp.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\GruposDeInvestigacionApp\GruposDeInvestigacionApp\obj\Debug\GruposDeInvestigacionApp.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\GruposDeInvestigacionApp\GruposDeInvestigacionApp\obj\Debug\GruposDeInvestigacionApp.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\GruposDeInvestigacionApp\GruposDeInvestigacionApp\obj\Debug\GruposDeInvestigacionApp.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\GruposDeInvestigacionApp\GruposDeInvestigacionApp\obj\Debug\GruposDeInvestigacionApp.exe
+C:\Users\USUARIO\source\repos\GruposDeInvestigacionApp\GruposDeInvestigacionApp\obj\Debug\GruposDeInvestigacionApp.pdb
+C:\Users\Bryan Grueso\Desktop\Universidad\Semestre5\Proyecto Integrador I\Repositorio Taller 3\integrador_taller2\GruposDeInvestigacionApp\GruposDeInvestigacionApp\bin\Debug\GruposDeInvestigacionApp.exe.config
+C:\Users\Bryan Grueso\Desktop\Universidad\Semestre5\Proyecto Integrador I\Repositorio Taller 3\integrador_taller2\GruposDeInvestigacionApp\GruposDeInvestigacionApp\bin\Debug\GruposDeInvestigacionApp.exe
+C:\Users\Bryan Grueso\Desktop\Universidad\Semestre5\Proyecto Integrador I\Repositorio Taller 3\integrador_taller2\GruposDeInvestigacionApp\GruposDeInvestigacionApp\bin\Debug\GruposDeInvestigacionApp.pdb
+C:\Users\Bryan Grueso\Desktop\Universidad\Semestre5\Proyecto Integrador I\Repositorio Taller 3\integrador_taller2\GruposDeInvestigacionApp\GruposDeInvestigacionApp\obj\Debug\GruposDeInvestigacionApp.csprojAssemblyReference.cache
+C:\Users\Bryan Grueso\Desktop\Universidad\Semestre5\Proyecto Integrador I\Repositorio Taller 3\integrador_taller2\GruposDeInvestigacionApp\GruposDeInvestigacionApp\obj\Debug\GruposDeInvestigacionApp.Properties.Resources.resources
+C:\Users\Bryan Grueso\Desktop\Universidad\Semestre5\Proyecto Integrador I\Repositorio Taller 3\integrador_taller2\GruposDeInvestigacionApp\GruposDeInvestigacionApp\obj\Debug\GruposDeInvestigacionApp.VentanaEquipos.resources
+C:\Users\Bryan Grueso\Desktop\Universidad\Semestre5\Proyecto Integrador I\Repositorio Taller 3\integrador_taller2\GruposDeInvestigacionApp\GruposDeInvestigacionApp\obj\Debug\GruposDeInvestigacionApp.VentanaPrincipal.resources
+C:\Users\Bryan Grueso\Desktop\Universidad\Semestre5\Proyecto Integrador I\Repositorio Taller 3\integrador_taller2\GruposDeInvestigacionApp\GruposDeInvestigacionApp\obj\Debug\GruposDeInvestigacionApp.csproj.GenerateResource.cache
+C:\Users\Bryan Grueso\Desktop\Universidad\Semestre5\Proyecto Integrador I\Repositorio Taller 3\integrador_taller2\GruposDeInvestigacionApp\GruposDeInvestigacionApp\obj\Debug\GruposDeInvestigacionApp.csproj.CoreCompileInputs.cache
+C:\Users\Bryan Grueso\Desktop\Universidad\Semestre5\Proyecto Integrador I\Repositorio Taller 3\integrador_taller2\GruposDeInvestigacionApp\GruposDeInvestigacionApp\obj\Debug\GruposDeInvestigacionApp.exe
+C:\Users\Bryan Grueso\Desktop\Universidad\Semestre5\Proyecto Integrador I\Repositorio Taller 3\integrador_taller2\GruposDeInvestigacionApp\GruposDeInvestigacionApp\obj\Debug\GruposDeInvestigacionApp.pdb
+C:\Users\Bryan Grueso\Desktop\Universidad\Semestre5\Proyecto Integrador I\Repositorio Taller 3\integrador_taller2\GruposDeInvestigacionApp\GruposDeInvestigacionApp\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Bryan Grueso\Desktop\Universidad\Semestre5\Proyecto Integrador I\Repositorio Taller 3\integrador_taller2\GruposDeInvestigacionApp\GruposDeInvestigacionApp\obj\Debug\GruposDeInvestigacionApp.csproj.CopyComplete
+C:\Users\Bryan Grueso\Desktop\Universidad\Semestre5\Proyecto Integrador I\Repositorio Taller 3\integrador_taller2\GruposDeInvestigacionApp\GruposDeInvestigacionApp\obj\Debug\GruposDeInvestigacionApp.MapaEquipos.resources
